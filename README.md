@@ -1,7 +1,5 @@
 # AblOEh
 
-*An evolutionary fashion design platform combining Open-Endedness with Virgil Abloh's design ethos*
-
 ![AblOEh Platform](assets/preview.png)
 
 ## Overview
